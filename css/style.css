@@ -1,0 +1,43 @@
+body {
+    background-color: #29BEC5;
+}
+
+.container {
+    width: 960px;
+    border: 1px solid #000000;
+    padding: 20px;
+    margin: 0 auto 0 auto;
+}
+
+footer {
+    background-color: #F1F1F1;
+    color: #24A4F3;
+}
+
+ul {
+    padding-left: 0;
+    margin-left: 0;
+    background-color: #036;
+    color: White;
+    float: left;
+    width: 100%;
+    font-family: arial, helvetica, sans-serif;
+}
+
+li {
+    display: inline;
+}
+
+ul li a {
+    padding: 0.2em 1em;
+    background-color: #036;
+    color: White;
+    text-decoration: none;
+    float: left;
+    border-right: 1px solid #fff;
+}
+
+ul li a:hover {
+    background-color: #369;
+    color: #fff;
+}
